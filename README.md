@@ -1,4 +1,4 @@
-# Discord-music-bot 🎶
+<h1>Discord-music-bot 🎶</h1>
 All language Discord Music Bot codes included.
 
 # Discord music bot with Python 🐍
